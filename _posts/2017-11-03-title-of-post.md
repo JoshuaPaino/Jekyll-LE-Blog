@@ -1,14 +1,12 @@
 ---
 layout: post
-title: Posty post
+title: Post 2
 postHero: /images/shark.jpg
-author: Megan Joan
-authorTwitter: http://twitter.com/meganjoan
+author: Jane Doe
+authorTwitter: http://twitter.com/aaaaaaaaaaaaaaaaa
 gravatar: https://gravatar.com/avatar/11151f65df6c07bce19fe80c308711be?s=150
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
-I
-
 From fairest creatures we desire increase,
 That thereby beauty's Rose might never die,
 But as the riper should by time decease,

@@ -1,14 +1,12 @@
 ---
 layout: post
-title: This is the title of the post
+title: Post 4
 postHero: /images/shark.jpg
-author: Me, Myself, and I
+author: Jack Doe
 authorTwitter: https://twitter.com/mhartl
 gravatar: https://gravatar.com/avatar/ffda7d145b83c4b118f982401f962ca6?s=150
 postFooter: Additional information, and maybe a <a href="#">link or two</a>
 ---
-I
-
 From fairest creatures we desire increase,
 That thereby beauty's Rose might never die,
 But as the riper should by time decease,
